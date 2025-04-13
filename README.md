@@ -3,9 +3,7 @@
 ## 😊 关于我
 - 🎓 毕业于**武汉大学**
 - 💼 正在寻找 **Java后端开发** 岗位机会
-- 🎵 不会唱rap的rapper
-- 💪 深蹲是下辈子的事
-- 🧋 一点点忠实粉丝
+- 💖 感谢Star！你的支持是我的动力
 - 😼 云养猫专家
 - 📫 联系我：**3386292996@qq.com**
 
@@ -28,6 +26,8 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=black)
+
+
 <!--
 **W-RedStar/W-RedStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
